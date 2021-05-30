@@ -1,2 +1,3 @@
 # Abikale's Portfolio
-## A short description of my capabilities
+## Everything about me
+### Portfolio was designed using html5, css3, JavaScript, SCSS
